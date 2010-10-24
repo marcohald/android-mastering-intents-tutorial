@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pick_action">Pick an Action</string>
+    <string name="app_name">Good Intentions</string>
+<string name="get_image">Get Image from Gallery</string>
+<string name="do_modify">Modify Image</string>
+<string name="cancel">Cancel</string>
+<string name="mod_image">Modify Image from Gallery</string>
+<string name="do_send">Send Image</string>
+<string name="browse_website">Browse Website</string>
+<string name="dial_phone">Dial Phone</string>
+</resources>
