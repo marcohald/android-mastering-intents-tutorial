@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" android:text="@string/pick_action"/>
+<Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/get_image" android:id="@+id/getImageButton" android:onClick="getImageFromGallery"></Button>
+<Button android:id="@+id/Button01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/mod_image" android:onClick="getModImage"></Button>
+<Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/test_button" android:text="@string/browse_website" android:onClick="onBrowseWebsite"></Button>
+<Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/dial_phone" android:onClick="onDialPhone" android:text="@string/dial_phone"></Button>
+</LinearLayout>
