@@ -1,0 +1,1 @@
+This project provides source code for a tutorial about intents.
